@@ -38,13 +38,6 @@ test = Test()
 
 ```
 
-
-
-
-    array(18.34486303)
-
-
-
 ### Calculate the change in the loss function for a simple regression model, $y = \beta  x + b$, as we step down the gradient once from an initial guess of 3 for $\beta$ and 1 for $b$
 
 
